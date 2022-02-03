@@ -4,4 +4,4 @@ layout: default
 
 ## Posts
 
-*   ### [Aubis Android Malware Analysis](./anubis-android-malware-analysis)
+*   ### [Anubis Android Malware Analysis](./anubis-android-malware-analysis)
